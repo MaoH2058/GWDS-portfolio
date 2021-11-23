@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+
 body{
     background-color: aquamarine;
 }
@@ -12,6 +14,6 @@ h1{
 
 .scd{
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto Mono', monospace;
 }
 
